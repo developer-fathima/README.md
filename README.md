@@ -1,5 +1,3 @@
-# README.md
-##fathima
 ## Hi there 👋 It's me Fathima Shabeer
 
 Software Engineer 
