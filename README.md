@@ -18,4 +18,4 @@ Software Engineer
   <img height="50" width="50" src="https://img.icons8.com/fluency/48/visual-studio.png"/>  <img height="50" width="50" src="https://img.icons8.com/glyph-neue/64/github.png"/>
 
 ### My Pojects Are
-<img height="50" width="50" src="https://img.icons8.com/color/48/net-framework.png"/>   <img height="50" width="50" src="(https://img.icons8.com/color/48/asp.png)"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/net-framework.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/48/asp.png"/>  
