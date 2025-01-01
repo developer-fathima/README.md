@@ -3,13 +3,11 @@
 Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m Expert in C# Programming Language8
+- 🌱 I’m Expert in C# Programming Language
 - 👯 I’m Junior Developer
 - 🤔 I’m working in startup company
-- 💬 Ask me about Tech
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
-  
+
+
   - I know Arabic Language.
 
 ### I code in
