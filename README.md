@@ -4,12 +4,10 @@ Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m Expert in C# Programming Language
-- 👯 I’m Junior Developer
+- 👯 I’m Junior DotNet Developer
 - 🤔 I’m working in startup company
-- 
-
-
-  - I know Arabic Language.
+-  I speak  Well Fluency English Language
+-  I know Arabic Language.
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/c-sharp-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/microsoft-sql-server.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
