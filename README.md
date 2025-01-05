@@ -6,7 +6,7 @@ Software Engineer
 - 🌱 I’m Expert in C# Programming Language
 - 👯 I’m Junior DotNet Developer
 - 🤔 I’m working in startup company
--  I speak  Well Fluency English Language
+-  I speak  English Well.
 -  I know Arabic Language.
 
 ### I code in
